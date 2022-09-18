@@ -1,2 +1,2 @@
 # ZOMBORewritten
-Old website https://zombo.com, but rewritten.
+Zombo.com is a single-serving site created in 1999. It was originally a faculty and student joke from the George Washington University Center for Professional Development. The site parodies Flash introductory web pages that play while the rest of a site's content loads. Zombo took the concept to a humorous extreme, consisting of one long introductory page that leads to an invitation to sign up for a newsletter.
